@@ -1,0 +1,8 @@
+name: Playground
+version: '${project.version}'
+main: me.hapyl.playground.Main
+api-version: 1.19
+prefix: PLAYGROUND
+depend: [ EternaAPI ]
+authors: [ hapyl ]
+description: "A plugin with any random features I'm interested making."
